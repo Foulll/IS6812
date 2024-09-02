@@ -1,2 +1,2 @@
 # IS6812
-Date: Auguest 27th 2024
+Date: August 27th 2024
